@@ -1,4 +1,4 @@
-# 🧱 concreteML
+# 🧱 concreteML | 인하대학교 학부연구생 프로그램 
 
 > Machine Learning-Based Concrete Strength Prediction  
 > *Inha University, Department of Energy Resources Engineering*  

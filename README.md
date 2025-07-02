@@ -9,7 +9,7 @@
 
 ## 👥 Authors
 - 최유미 (Yumi Choi)  
-- 강태우 (Taewoo Kang)  
+- 강태구 (Taegoo Kang)  
 - 조홍근 (Prof. Honggeun Jo, Advisor)
 
 ---

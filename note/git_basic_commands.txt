@@ -1,0 +1,116 @@
+
+INHA@INHA MINGW64 ~/Desktop
+$ git clone https://github.com/geomodeller/concreteML.git
+Cloning into 'concreteML'...
+fatal: protocol 'https' is not supported
+
+INHA@INHA MINGW64 ~/Desktop
+$ git push
+fatal: not a git repository (or any of the parent directories): .git
+
+INHA@INHA MINGW64 ~/Desktop
+$ gh
+bash: gh: command not found
+
+INHA@INHA MINGW64 ~/Desktop
+$ git auth login
+git: 'auth' is not a git command. See 'git --help'.
+
+The most similar commands are
+        push
+        status
+
+INHA@INHA MINGW64 ~/Desktop
+$ git clone https://github.com/geomodeller/concreteML.git
+Cloning into 'concreteML'...
+fatal: protocol 'https' is not supported
+
+INHA@INHA MINGW64 ~/Desktop
+$ git clone https://github.com/geomodeller/concreteML.git
+Cloning into 'concreteML'...
+remote: Enumerating objects: 12, done.
+remote: Counting objects: 100% (12/12), done.
+remote: Compressing objects: 100% (8/8), done.
+remote: Total 12 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (12/12), 5.07 KiB | 5.07 MiB/s, done.
+Resolving deltas: 100% (2/2), done.
+
+INHA@INHA MINGW64 ~/Desktop
+$ cd concreteML/
+
+INHA@INHA MINGW64 ~/Desktop/concreteML (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        1_Data_Load_and_Simple_Analysis.ipynb
+        2_XGBoost.ipynb
+        dataset.csv
+        s41598-024-69616-9.pdf
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+INHA@INHA MINGW64 ~/Desktop/concreteML (main)
+$ git add 1_Data_Load_and_Simple_Analysis.ipynb
+warning: in the working copy of '1_Data_Load_and_Simple_Analysis.ipynb', LF will be replaced by CRLF the next time Git touches it
+
+INHA@INHA MINGW64 ~/Desktop/concreteML (main)
+$ git add 2_XGBoost.ipynb
+warning: in the working copy of '2_XGBoost.ipynb', LF will be replaced by CRLF the next time Git touches it
+
+INHA@INHA MINGW64 ~/Desktop/concreteML (main)
+$ git add dataset.csv
+
+INHA@INHA MINGW64 ~/Desktop/concreteML (main)
+$ git add s41598-024-69616-9.pdf
+
+INHA@INHA MINGW64 ~/Desktop/concreteML (main)
+$ git add *
+
+INHA@INHA MINGW64 ~/Desktop/concreteML (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   1_Data_Load_and_Simple_Analysis.ipynb
+        new file:   2_XGBoost.ipynb
+        new file:   dataset.csv
+        new file:   s41598-024-69616-9.pdf
+
+
+INHA@INHA MINGW64 ~/Desktop/concreteML (main)
+$ git commit -m "add out first files - two python scripts, paper, dataset"
+[main 5f1ed0c] add out first files - two python scripts, paper, dataset
+ 4 files changed, 13224 insertions(+)
+ create mode 100644 1_Data_Load_and_Simple_Analysis.ipynb
+ create mode 100644 2_XGBoost.ipynb
+ create mode 100644 dataset.csv
+ create mode 100644 s41598-024-69616-9.pdf
+
+INHA@INHA MINGW64 ~/Desktop/concreteML (main)
+$ git push
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/geomodeller/concreteML.git/'
+
+INHA@INHA MINGW64 ~/Desktop/concreteML (main)
+$ git push
+
+
+
+INHA@INHA MINGW64 ~/Desktop/concreteML (main)
+$ git push
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 20 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 3.03 MiB | 5.54 MiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/geomodeller/concreteML.git
+   134d76e..5f1ed0c  main -> main
+
+INHA@INHA MINGW64 ~/Desktop/concreteML (main)
+$

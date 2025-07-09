@@ -62,7 +62,10 @@ The project workflow includes the following steps:
 ## 🗓️ Progress Log
 
 - **2025-06-23**: Project kickoff — overview session and initial data analysis  
-- **2025-07-02**: Development environment setup (IDE & Git) completed  
+- **2025-07-02**: Development environment setup (IDE & Git) completed
+- **2025-07-09**:
+- [Code update-TG] Upload Decision Tree model - RMSE of 84... which is not as good as XGBoost
+- [Review-YM] git, Decision Tree, Random Forest (Bagging; bootstrap aggregating), and XGBoost (Boosting)
 
 ---
 

@@ -1,0 +1,57 @@
+1. 화면 불러오기
+- 바탕화면에서 우클릭 -> open git bass here을 눌러 -> 그럼 Terminal이 뜸 = 화면 -> 명령을 하는 곳
+
+< 리눅스 명령어 >
+* pwd = present working directory : 지금 현재 위치를 알려줌
+* cd = change directory : 폴더 이동시킴
+* cd 파일이름 : 그 파일로 위치가 옮겨짐
+* cd .. : 상위 폴더로 옮김 (=이전 위치로 간다로 생각)
+* rm = remove : 파일이나 directory를 제거시킴
+    -f = force : 강제로 삭제한다는 의미
+    -r = recursive : 폴더 안 내용까지 전부 삭제
+    -i = interactive : 삭제 전에 확인 질문함
+* mkdir 폴더이름 = making directory : 새 폴더를 만듦
+* clear : terminal 화면을 다 지움 -> 깨끗해짐
+
+
+< Git 명령어 >
+                            colne (초기 저장)
+               <---------------------------------
+내 컴(Local)               Stage                 Git hub
+              -> add ->     ㅣ    -> push ->
+                            commit             
+              <--------------------------------/
+                        pull (추가 저장)
+
+* -- : 은 다 옵션 설정하는 거임
+
+1) 파일 다운로드 받기
+git clone 주소 : 지금 위치에 복사본(clone)이 만들어짐 = 처음에 파일 다운
+    (주소는 git에서 ctrl+C하고 Terminal에서는 우클릭-> Paste 눌러서 붙여넣기 함)
+ 
+2) 내 컴에서 작업한 파일 stage에 올리기
+* git add 파일명 
+
+3) 업데이트 사항 기록하기
+* git commit -m "하려는 말" : 어떤 작업을 했는지 설명
+  (-m은 메세지를 남긴다는 의미임)
+3-1) 사용자 설정
+* git config --global user.name "이름" 
+* git config --global user.email "이메일"
+(--global은 컴퓨터 전체에서 기본 설정을 한다는 의미, 특정 폴더에서만 그러고 싶으면 그 폴더 이름 써)
+
+
+4) stage에서 commit된 작업물 이제 github에 올리기
+* git push origin main
+   -> ex) git push concreteML/ main
+
+5) 처음에 받아놓은 거 말고 업데이트 된 파일 저장하기
+* git pull origin main
+
+6) 기타 명령어들
+* git status : 어떤 파일이 수정됐는지, 뭐가 stage에 있는지, 뭐가 추가됐는지, 이런 상태를 보여줌
+* git remote : 원격 저장소(github그거) 이름을 보여줌
+           + -v = verbose : URL 주소도 같이 보여줌
+
+** 일단 내가 작업한거 올리기 전에 pull부터 하는 습관 들이기 **
+  -> 나 혼자 작업하는게 아니니까 

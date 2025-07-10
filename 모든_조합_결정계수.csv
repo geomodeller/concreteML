@@ -1,256 +1,256 @@
 num_features,features,mean_r2
 8,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.6006959620275698
-6,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'age')",0.6006725827939223
-7,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'fine aggregate', 'age')",0.6003347666887777
+6,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'age')",0.6006725827939222
+7,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'fine aggregate', 'age')",0.6003347666887778
 7,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'age')",0.6001326940517965
-5,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'age')",0.5999712577906672
+5,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'age')",0.5999712577906671
 6,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'fine aggregate', 'age')",0.5998920034811777
-6,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'coarse aggregate', 'age')",0.5990201091715229
-7,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.5989348930476596
-7,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.5971271130548357
-6,"('cement', 'blast furnace slag', 'fly ash', 'coarse aggregate', 'fine aggregate', 'age')",0.5842214151844592
+6,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'coarse aggregate', 'age')",0.5990201091715228
+7,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.5989348930476593
+7,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.5971271130548356
+6,"('cement', 'blast furnace slag', 'fly ash', 'coarse aggregate', 'fine aggregate', 'age')",0.584221415184459
 7,"('cement', 'blast furnace slag', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.5830419853186919
-6,"('cement', 'blast furnace slag', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.5787768708375991
-6,"('cement', 'blast furnace slag', 'water ', 'superplasticizer', 'fine aggregate', 'age')",0.578732856746357
+6,"('cement', 'blast furnace slag', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.578776870837599
+6,"('cement', 'blast furnace slag', 'water ', 'superplasticizer', 'fine aggregate', 'age')",0.5787328567463571
 5,"('cement', 'blast furnace slag', 'water ', 'superplasticizer', 'age')",0.5754317689608965
 6,"('cement', 'blast furnace slag', 'water ', 'superplasticizer', 'coarse aggregate', 'age')",0.575130200877298
-6,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate', 'age')",0.5703837481176321
+6,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate', 'age')",0.570383748117632
 6,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer', 'fine aggregate', 'age')",0.5701131919175865
 5,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer', 'age')",0.5616436543834377
 7,"('cement', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.5614502090098946
-6,"('cement', 'fly ash', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.5605006846132672
-5,"('cement', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.5602058514603729
+6,"('cement', 'fly ash', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.5605006846132673
+5,"('cement', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.5602058514603728
 6,"('cement', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.5594066496767656
-5,"('cement', 'blast furnace slag', 'water ', 'coarse aggregate', 'age')",0.556476593964338
-5,"('cement', 'blast furnace slag', 'water ', 'fine aggregate', 'age')",0.5540642801554956
+5,"('cement', 'blast furnace slag', 'water ', 'coarse aggregate', 'age')",0.5564765939643379
+5,"('cement', 'blast furnace slag', 'water ', 'fine aggregate', 'age')",0.5540642801554955
 4,"('cement', 'blast furnace slag', 'water ', 'age')",0.5491790062199113
-5,"('cement', 'blast furnace slag', 'fly ash', 'fine aggregate', 'age')",0.5489833355272105
+5,"('cement', 'blast furnace slag', 'fly ash', 'fine aggregate', 'age')",0.5489833355272103
 5,"('cement', 'blast furnace slag', 'superplasticizer', 'coarse aggregate', 'age')",0.5488223024954502
-6,"('cement', 'blast furnace slag', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.5475640749997688
-4,"('cement', 'blast furnace slag', 'superplasticizer', 'age')",0.5440169053663095
-5,"('cement', 'blast furnace slag', 'superplasticizer', 'fine aggregate', 'age')",0.5419610548201426
-7,"('blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.5247747865158814
+6,"('cement', 'blast furnace slag', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.547564074999769
+4,"('cement', 'blast furnace slag', 'superplasticizer', 'age')",0.5440169053663094
+5,"('cement', 'blast furnace slag', 'superplasticizer', 'fine aggregate', 'age')",0.5419610548201423
+7,"('blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.5247747865158817
 6,"('blast furnace slag', 'fly ash', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.523960295973324
 6,"('cement', 'fly ash', 'water ', 'superplasticizer', 'fine aggregate', 'age')",0.5229545942160752
 5,"('cement', 'water ', 'superplasticizer', 'fine aggregate', 'age')",0.5222486020361308
 6,"('fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.5170427691335797
-5,"('fly ash', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.5160626704168912
-5,"('cement', 'blast furnace slag', 'fly ash', 'coarse aggregate', 'age')",0.510936218020703
-4,"('cement', 'blast furnace slag', 'fly ash', 'age')",0.5083795734867529
-5,"('cement', 'water ', 'superplasticizer', 'coarse aggregate', 'age')",0.4997727718710582
-6,"('cement', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'age')",0.4963657403534336
-4,"('cement', 'water ', 'superplasticizer', 'age')",0.49255396254187317
+5,"('fly ash', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.516062670416891
+5,"('cement', 'blast furnace slag', 'fly ash', 'coarse aggregate', 'age')",0.5109362180207029
+4,"('cement', 'blast furnace slag', 'fly ash', 'age')",0.5083795734867528
+5,"('cement', 'water ', 'superplasticizer', 'coarse aggregate', 'age')",0.499772771871058
+6,"('cement', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'age')",0.4963657403534337
+4,"('cement', 'water ', 'superplasticizer', 'age')",0.49255396254187306
 5,"('cement', 'fly ash', 'water ', 'superplasticizer', 'age')",0.4888982852363089
-4,"('cement', 'superplasticizer', 'fine aggregate', 'age')",0.48716812280875493
-5,"('cement', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.4864790044003315
-5,"('cement', 'fly ash', 'superplasticizer', 'fine aggregate', 'age')",0.48505155553142576
+4,"('cement', 'superplasticizer', 'fine aggregate', 'age')",0.4871681228087549
+5,"('cement', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.4864790044003316
+5,"('cement', 'fly ash', 'superplasticizer', 'fine aggregate', 'age')",0.48505155553142565
 4,"('cement', 'water ', 'fine aggregate', 'age')",0.4848000591868512
-6,"('cement', 'fly ash', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.48453963427010305
+6,"('cement', 'fly ash', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.48453963427010277
 4,"('water ', 'coarse aggregate', 'fine aggregate', 'age')",0.48337164436594354
 4,"('cement', 'water ', 'coarse aggregate', 'age')",0.48133258854528116
-5,"('blast furnace slag', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.48081746855023777
+5,"('blast furnace slag', 'water ', 'coarse aggregate', 'fine aggregate', 'age')",0.4808174685502379
 5,"('water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.4798193664330821
 5,"('cement', 'fly ash', 'water ', 'fine aggregate', 'age')",0.47980767242139183
-3,"('cement', 'superplasticizer', 'age')",0.47813151072209603
+3,"('cement', 'superplasticizer', 'age')",0.4781315107220959
 5,"('cement', 'fly ash', 'water ', 'coarse aggregate', 'age')",0.47756653230605756
-6,"('blast furnace slag', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.477040209379903
-4,"('cement', 'superplasticizer', 'coarse aggregate', 'age')",0.4766585862518249
-4,"('cement', 'fly ash', 'superplasticizer', 'age')",0.47401688391468727
-5,"('cement', 'fly ash', 'superplasticizer', 'coarse aggregate', 'age')",0.4728794184561206
-5,"('fly ash', 'water ', 'superplasticizer', 'fine aggregate', 'age')",0.45171352025393896
-6,"('blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'fine aggregate', 'age')",0.4497747123951486
+6,"('blast furnace slag', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.4770402093799029
+4,"('cement', 'superplasticizer', 'coarse aggregate', 'age')",0.476658586251825
+4,"('cement', 'fly ash', 'superplasticizer', 'age')",0.47401688391468716
+5,"('cement', 'fly ash', 'superplasticizer', 'coarse aggregate', 'age')",0.4728794184561204
+5,"('fly ash', 'water ', 'superplasticizer', 'fine aggregate', 'age')",0.4517135202539392
+6,"('blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'fine aggregate', 'age')",0.4497747123951485
 3,"('cement', 'water ', 'age')",0.446370071019626
 4,"('cement', 'fly ash', 'water ', 'age')",0.442504046041395
 5,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'superplasticizer')",0.4277524855953237
-6,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate')",0.4272792847026108
-6,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'fine aggregate')",0.427227000307253
-4,"('cement', 'blast furnace slag', 'fly ash', 'water ')",0.42682758552879657
+6,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate')",0.4272792847026107
+6,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'fine aggregate')",0.42722700030725297
+4,"('cement', 'blast furnace slag', 'fly ash', 'water ')",0.4268275855287964
 7,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.42651971993327764
-6,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.4264676082321787
-5,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'fine aggregate')",0.4250674564373038
-5,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'coarse aggregate')",0.4249360202846816
-6,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'coarse aggregate', 'fine aggregate')",0.4245221722646783
+6,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.42646760823217866
+5,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'fine aggregate')",0.4250674564373037
+5,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'coarse aggregate')",0.4249360202846815
+6,"('cement', 'blast furnace slag', 'fly ash', 'water ', 'coarse aggregate', 'fine aggregate')",0.42452217226467825
 5,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate')",0.422682672417228
 6,"('cement', 'blast furnace slag', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.42100427159435255
-4,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer')",0.41904989602845416
-5,"('cement', 'blast furnace slag', 'water ', 'superplasticizer', 'fine aggregate')",0.418995212244938
-5,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer', 'fine aggregate')",0.41878071636097564
+4,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer')",0.41904989602845405
+5,"('cement', 'blast furnace slag', 'water ', 'superplasticizer', 'fine aggregate')",0.41899521224493796
+5,"('cement', 'blast furnace slag', 'fly ash', 'superplasticizer', 'fine aggregate')",0.4187807163609758
 5,"('cement', 'blast furnace slag', 'water ', 'coarse aggregate', 'fine aggregate')",0.4172533038480025
 4,"('cement', 'blast furnace slag', 'water ', 'superplasticizer')",0.41479225038990963
-5,"('cement', 'blast furnace slag', 'water ', 'superplasticizer', 'coarse aggregate')",0.4140708759145427
+5,"('cement', 'blast furnace slag', 'water ', 'superplasticizer', 'coarse aggregate')",0.41407087591454256
 4,"('cement', 'blast furnace slag', 'fine aggregate', 'age')",0.4139546864438989
 5,"('cement', 'blast furnace slag', 'fly ash', 'coarse aggregate', 'fine aggregate')",0.4136569584669532
 5,"('cement', 'blast furnace slag', 'coarse aggregate', 'fine aggregate', 'age')",0.4115804601279713
-4,"('cement', 'blast furnace slag', 'superplasticizer', 'coarse aggregate')",0.41071134444435603
+4,"('cement', 'blast furnace slag', 'superplasticizer', 'coarse aggregate')",0.4107113444443561
 3,"('cement', 'blast furnace slag', 'superplasticizer')",0.40891226692091054
-5,"('cement', 'blast furnace slag', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.40872430131812776
+5,"('cement', 'blast furnace slag', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.40872430131812754
 4,"('cement', 'blast furnace slag', 'superplasticizer', 'fine aggregate')",0.4075409089984399
 5,"('blast furnace slag', 'water ', 'superplasticizer', 'fine aggregate', 'age')",0.4067604756276033
-6,"('cement', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.40433377834475615
+6,"('cement', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.40433377834475603
 3,"('cement', 'blast furnace slag', 'age')",0.4036164202515554
-5,"('cement', 'fly ash', 'water ', 'coarse aggregate', 'fine aggregate')",0.40309552514029356
+5,"('cement', 'fly ash', 'water ', 'coarse aggregate', 'fine aggregate')",0.40309552514029345
 4,"('cement', 'blast furnace slag', 'coarse aggregate', 'age')",0.4015547212916779
-4,"('water ', 'superplasticizer', 'fine aggregate', 'age')",0.4012767259286745
-4,"('cement', 'water ', 'coarse aggregate', 'fine aggregate')",0.40106110543523216
-4,"('cement', 'blast furnace slag', 'fly ash', 'fine aggregate')",0.4006107144205779
-5,"('cement', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.3996095631625134
-4,"('cement', 'blast furnace slag', 'water ', 'fine aggregate')",0.3969597088006983
+4,"('water ', 'superplasticizer', 'fine aggregate', 'age')",0.4012767259286744
+4,"('cement', 'water ', 'coarse aggregate', 'fine aggregate')",0.40106110543523227
+4,"('cement', 'blast furnace slag', 'fly ash', 'fine aggregate')",0.40061071442057783
+5,"('cement', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.3996095631625133
+4,"('cement', 'blast furnace slag', 'water ', 'fine aggregate')",0.3969597088006982
 4,"('cement', 'blast furnace slag', 'water ', 'coarse aggregate')",0.39555671186108576
-3,"('cement', 'blast furnace slag', 'water ')",0.391575141484571
+3,"('cement', 'blast furnace slag', 'water ')",0.39157514148457107
 6,"('blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.38949524284715525
-5,"('fly ash', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.38934329356354686
-4,"('fly ash', 'superplasticizer', 'fine aggregate', 'age')",0.38711228074037357
-4,"('cement', 'blast furnace slag', 'fly ash', 'coarse aggregate')",0.3870338870471014
-3,"('cement', 'blast furnace slag', 'fly ash')",0.3869041678040822
-5,"('blast furnace slag', 'fly ash', 'superplasticizer', 'fine aggregate', 'age')",0.38565115072033934
-5,"('blast furnace slag', 'fly ash', 'water ', 'fine aggregate', 'age')",0.3850987217659568
+5,"('fly ash', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.3893432935635466
+4,"('fly ash', 'superplasticizer', 'fine aggregate', 'age')",0.3871122807403738
+4,"('cement', 'blast furnace slag', 'fly ash', 'coarse aggregate')",0.38703388704710123
+3,"('cement', 'blast furnace slag', 'fly ash')",0.3869041678040821
+5,"('blast furnace slag', 'fly ash', 'superplasticizer', 'fine aggregate', 'age')",0.3856511507203389
+5,"('blast furnace slag', 'fly ash', 'water ', 'fine aggregate', 'age')",0.38509872176595705
 4,"('fly ash', 'water ', 'fine aggregate', 'age')",0.38340521368522495
 6,"('blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'age')",0.38147257736601425
-5,"('fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'age')",0.38026010798195076
+5,"('fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'age')",0.38026010798195087
 5,"('cement', 'fly ash', 'water ', 'superplasticizer', 'fine aggregate')",0.37528451542629426
-4,"('cement', 'water ', 'superplasticizer', 'fine aggregate')",0.3720403069197883
+4,"('cement', 'water ', 'superplasticizer', 'fine aggregate')",0.37204030691978823
 5,"('blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'age')",0.37197933060264
-4,"('blast furnace slag', 'water ', 'fine aggregate', 'age')",0.3715083404365417
-4,"('fly ash', 'water ', 'superplasticizer', 'age')",0.3674450790936694
+4,"('blast furnace slag', 'water ', 'fine aggregate', 'age')",0.37150834043654146
+4,"('fly ash', 'water ', 'superplasticizer', 'age')",0.3674450790936695
 6,"('blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.3669655293592965
 5,"('blast furnace slag', 'fly ash', 'water ', 'coarse aggregate', 'fine aggregate')",0.3659475986848201
 5,"('cement', 'fly ash', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.36282016829505426
-4,"('cement', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.3623908918332381
+4,"('cement', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.3623908918332382
 3,"('water ', 'fine aggregate', 'age')",0.36196994242712044
-4,"('cement', 'fly ash', 'superplasticizer', 'fine aggregate')",0.3612455565870311
-3,"('cement', 'superplasticizer', 'fine aggregate')",0.36092759812444253
+4,"('cement', 'fly ash', 'superplasticizer', 'fine aggregate')",0.36124555658703106
+3,"('cement', 'superplasticizer', 'fine aggregate')",0.36092759812444264
 5,"('blast furnace slag', 'water ', 'superplasticizer', 'coarse aggregate', 'age')",0.35281158718266015
-5,"('blast furnace slag', 'fly ash', 'water ', 'coarse aggregate', 'age')",0.3491948561219754
+5,"('blast furnace slag', 'fly ash', 'water ', 'coarse aggregate', 'age')",0.3491948561219756
 5,"('cement', 'fly ash', 'coarse aggregate', 'fine aggregate', 'age')",0.34886228524153096
 4,"('cement', 'fly ash', 'coarse aggregate', 'age')",0.34859944880458055
-4,"('fly ash', 'superplasticizer', 'coarse aggregate', 'age')",0.3473679876195825
-3,"('fly ash', 'superplasticizer', 'age')",0.34699291984357716
+4,"('fly ash', 'superplasticizer', 'coarse aggregate', 'age')",0.3473679876195826
+3,"('fly ash', 'superplasticizer', 'age')",0.34699291984357705
 4,"('blast furnace slag', 'fly ash', 'superplasticizer', 'age')",0.3468569363023617
-5,"('blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate', 'age')",0.3466121647395818
-5,"('fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.34647269956957666
-4,"('fly ash', 'water ', 'coarse aggregate', 'age')",0.3450985168330551
-4,"('fly ash', 'water ', 'coarse aggregate', 'fine aggregate')",0.3450580802419
-4,"('cement', 'water ', 'superplasticizer', 'coarse aggregate')",0.34368040117237547
+5,"('blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate', 'age')",0.3466121647395819
+5,"('fly ash', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.34647269956957694
+4,"('fly ash', 'water ', 'coarse aggregate', 'age')",0.34509851683305526
+4,"('fly ash', 'water ', 'coarse aggregate', 'fine aggregate')",0.34505808024190016
+4,"('cement', 'water ', 'superplasticizer', 'coarse aggregate')",0.3436804011723754
 2,"('cement', 'superplasticizer')",0.34279545158998814
-4,"('blast furnace slag', 'water ', 'superplasticizer', 'age')",0.3425976007142581
-3,"('cement', 'superplasticizer', 'coarse aggregate')",0.34212816516797884
+4,"('blast furnace slag', 'water ', 'superplasticizer', 'age')",0.34259760071425804
+3,"('cement', 'superplasticizer', 'coarse aggregate')",0.3421281651679787
 5,"('blast furnace slag', 'superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.3414401704497251
-4,"('superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.3412612180231527
-5,"('cement', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate')",0.34114984224902334
+4,"('superplasticizer', 'coarse aggregate', 'fine aggregate', 'age')",0.3412612180231528
+5,"('cement', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate')",0.3411498422490234
 3,"('cement', 'water ', 'superplasticizer')",0.34081509928176634
-3,"('cement', 'fly ash', 'superplasticizer')",0.33971481551549493
+3,"('cement', 'fly ash', 'superplasticizer')",0.339714815515495
 4,"('cement', 'fly ash', 'superplasticizer', 'coarse aggregate')",0.339377041624051
 4,"('blast furnace slag', 'superplasticizer', 'fine aggregate', 'age')",0.33882535444650025
 3,"('cement', 'fly ash', 'age')",0.3387735514935447
-3,"('cement', 'water ', 'fine aggregate')",0.33837626919058506
+3,"('cement', 'water ', 'fine aggregate')",0.338376269190585
 4,"('cement', 'fly ash', 'water ', 'superplasticizer')",0.3380953599756434
 4,"('cement', 'fly ash', 'fine aggregate', 'age')",0.33808412767078033
-4,"('blast furnace slag', 'water ', 'coarse aggregate', 'age')",0.33768594730020446
-4,"('water ', 'superplasticizer', 'coarse aggregate', 'age')",0.3373568032461788
-4,"('cement', 'coarse aggregate', 'fine aggregate', 'age')",0.3369156701739018
+4,"('blast furnace slag', 'water ', 'coarse aggregate', 'age')",0.3376859473002044
+4,"('water ', 'superplasticizer', 'coarse aggregate', 'age')",0.33735680324617867
+4,"('cement', 'coarse aggregate', 'fine aggregate', 'age')",0.33691567017390184
 3,"('superplasticizer', 'fine aggregate', 'age')",0.3367995141111207
-3,"('cement', 'coarse aggregate', 'age')",0.3363942182047847
-4,"('cement', 'fly ash', 'water ', 'fine aggregate')",0.3338055305181635
-3,"('cement', 'water ', 'coarse aggregate')",0.3256949233126016
-2,"('cement', 'age')",0.3255110283238173
-3,"('cement', 'fine aggregate', 'age')",0.32476103791318855
-3,"('water ', 'coarse aggregate', 'age')",0.3228986540273492
+3,"('cement', 'coarse aggregate', 'age')",0.33639421820478466
+4,"('cement', 'fly ash', 'water ', 'fine aggregate')",0.3338055305181634
+3,"('cement', 'water ', 'coarse aggregate')",0.3256949233126017
+2,"('cement', 'age')",0.3255110283238172
+3,"('cement', 'fine aggregate', 'age')",0.3247610379131885
+3,"('water ', 'coarse aggregate', 'age')",0.3228986540273491
 4,"('cement', 'fly ash', 'water ', 'coarse aggregate')",0.32073302337457277
-3,"('water ', 'superplasticizer', 'age')",0.31870218568911357
-3,"('cement', 'blast furnace slag', 'fine aggregate')",0.31661282190763096
-2,"('cement', 'blast furnace slag')",0.31564208862308935
+3,"('water ', 'superplasticizer', 'age')",0.3187021856891135
+3,"('cement', 'blast furnace slag', 'fine aggregate')",0.316612821907631
+2,"('cement', 'blast furnace slag')",0.3156420886230893
 4,"('cement', 'blast furnace slag', 'coarse aggregate', 'fine aggregate')",0.31494304819811075
-3,"('cement', 'blast furnace slag', 'coarse aggregate')",0.3140016938212541
+3,"('cement', 'blast furnace slag', 'coarse aggregate')",0.31400169382125404
 3,"('blast furnace slag', 'superplasticizer', 'age')",0.31235490722494685
-4,"('blast furnace slag', 'superplasticizer', 'coarse aggregate', 'age')",0.31210009192346594
-4,"('blast furnace slag', 'fly ash', 'water ', 'age')",0.3020039183536244
+4,"('blast furnace slag', 'superplasticizer', 'coarse aggregate', 'age')",0.312100091923466
+4,"('blast furnace slag', 'fly ash', 'water ', 'age')",0.30200391835362445
 3,"('superplasticizer', 'coarse aggregate', 'age')",0.2999851421204286
-2,"('cement', 'water ')",0.2995264923708042
+2,"('cement', 'water ')",0.2995264923708041
 4,"('blast furnace slag', 'water ', 'coarse aggregate', 'fine aggregate')",0.29859065089849546
 2,"('superplasticizer', 'age')",0.2983298684507429
 3,"('water ', 'coarse aggregate', 'fine aggregate')",0.298103897398162
 3,"('blast furnace slag', 'water ', 'age')",0.2979290244551766
-3,"('cement', 'fly ash', 'water ')",0.2940999577694987
-5,"('blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'fine aggregate')",0.2925751179286973
-5,"('blast furnace slag', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.29239238925710015
-4,"('water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.2923588704659784
-4,"('fly ash', 'water ', 'superplasticizer', 'fine aggregate')",0.29142097257021315
+3,"('cement', 'fly ash', 'water ')",0.29409995776949865
+5,"('blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'fine aggregate')",0.29257511792869745
+5,"('blast furnace slag', 'water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.2923923892570999
+4,"('water ', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.29235887046597825
+4,"('fly ash', 'water ', 'superplasticizer', 'fine aggregate')",0.2914209725702131
 3,"('fly ash', 'water ', 'age')",0.2807054697058062
 5,"('blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.2720441140134432
-2,"('water ', 'age')",0.2639134668321562
+2,"('water ', 'age')",0.2639134668321563
 4,"('fly ash', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.263867651570699
-4,"('blast furnace slag', 'fly ash', 'superplasticizer', 'fine aggregate')",0.2610270137604938
-3,"('fly ash', 'superplasticizer', 'fine aggregate')",0.2583174190022352
-4,"('cement', 'fly ash', 'coarse aggregate', 'fine aggregate')",0.2582825160178493
-3,"('cement', 'coarse aggregate', 'fine aggregate')",0.2562461839404438
+4,"('blast furnace slag', 'fly ash', 'superplasticizer', 'fine aggregate')",0.26102701376049364
+3,"('fly ash', 'superplasticizer', 'fine aggregate')",0.2583174190022353
+4,"('cement', 'fly ash', 'coarse aggregate', 'fine aggregate')",0.25828251601784935
+3,"('cement', 'coarse aggregate', 'fine aggregate')",0.25624618394044385
 3,"('cement', 'fly ash', 'coarse aggregate')",0.25287435254205504
-2,"('cement', 'coarse aggregate')",0.2506409782710658
-3,"('cement', 'fly ash', 'fine aggregate')",0.24423200047787108
+2,"('cement', 'coarse aggregate')",0.25064097827106585
+3,"('cement', 'fly ash', 'fine aggregate')",0.244232000477871
 2,"('cement', 'fly ash')",0.24254483315825554
 2,"('cement', 'fine aggregate')",0.24120080681087291
-1,"('cement',)",0.2395283796736231
-4,"('blast furnace slag', 'water ', 'superplasticizer', 'fine aggregate')",0.22468395096575983
+1,"('cement',)",0.23952837967362303
+4,"('blast furnace slag', 'water ', 'superplasticizer', 'fine aggregate')",0.22468395096575994
 3,"('water ', 'superplasticizer', 'fine aggregate')",0.22384745199357886
-3,"('fly ash', 'water ', 'fine aggregate')",0.22219479962867408
-4,"('blast furnace slag', 'fly ash', 'water ', 'fine aggregate')",0.22030401219366746
-4,"('fly ash', 'water ', 'superplasticizer', 'coarse aggregate')",0.20430425867240212
-5,"('blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate')",0.20290723303821548
-3,"('superplasticizer', 'coarse aggregate', 'fine aggregate')",0.20167332046697894
-4,"('blast furnace slag', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.20036593009890388
-3,"('fly ash', 'superplasticizer', 'coarse aggregate')",0.198724029781612
+3,"('fly ash', 'water ', 'fine aggregate')",0.22219479962867417
+4,"('blast furnace slag', 'fly ash', 'water ', 'fine aggregate')",0.2203040121936674
+4,"('fly ash', 'water ', 'superplasticizer', 'coarse aggregate')",0.20430425867240226
+5,"('blast furnace slag', 'fly ash', 'water ', 'superplasticizer', 'coarse aggregate')",0.2029072330382155
+3,"('superplasticizer', 'coarse aggregate', 'fine aggregate')",0.20167332046697903
+4,"('blast furnace slag', 'superplasticizer', 'coarse aggregate', 'fine aggregate')",0.2003659300989038
+3,"('fly ash', 'superplasticizer', 'coarse aggregate')",0.19872402978161188
 3,"('fly ash', 'water ', 'superplasticizer')",0.19694949611629226
-4,"('blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate')",0.19692790049610492
-2,"('fly ash', 'superplasticizer')",0.19687264322513126
+4,"('blast furnace slag', 'fly ash', 'superplasticizer', 'coarse aggregate')",0.196927900496105
+2,"('fly ash', 'superplasticizer')",0.19687264322513132
 4,"('blast furnace slag', 'fly ash', 'water ', 'superplasticizer')",0.19675023183201837
-3,"('blast furnace slag', 'fly ash', 'superplasticizer')",0.19556965079798966
-2,"('superplasticizer', 'fine aggregate')",0.19240368198516913
-3,"('blast furnace slag', 'water ', 'fine aggregate')",0.19208037095559333
-3,"('blast furnace slag', 'superplasticizer', 'fine aggregate')",0.19191419743722216
-2,"('water ', 'fine aggregate')",0.18868523466941917
-3,"('fly ash', 'water ', 'coarse aggregate')",0.16505290414543256
+3,"('blast furnace slag', 'fly ash', 'superplasticizer')",0.19556965079798974
+2,"('superplasticizer', 'fine aggregate')",0.19240368198516916
+3,"('blast furnace slag', 'water ', 'fine aggregate')",0.19208037095559335
+3,"('blast furnace slag', 'superplasticizer', 'fine aggregate')",0.19191419743722207
+2,"('water ', 'fine aggregate')",0.18868523466941928
+3,"('fly ash', 'water ', 'coarse aggregate')",0.1650529041454326
 4,"('blast furnace slag', 'fly ash', 'water ', 'coarse aggregate')",0.1645501866760459
-4,"('blast furnace slag', 'water ', 'superplasticizer', 'coarse aggregate')",0.15302440012906332
-3,"('coarse aggregate', 'fine aggregate', 'age')",0.15012004041916077
-4,"('blast furnace slag', 'coarse aggregate', 'fine aggregate', 'age')",0.14870703858404463
-4,"('fly ash', 'coarse aggregate', 'fine aggregate', 'age')",0.14714521006661888
+4,"('blast furnace slag', 'water ', 'superplasticizer', 'coarse aggregate')",0.1530244001290634
+3,"('coarse aggregate', 'fine aggregate', 'age')",0.1501200404191607
+4,"('blast furnace slag', 'coarse aggregate', 'fine aggregate', 'age')",0.1487070385840447
+4,"('fly ash', 'coarse aggregate', 'fine aggregate', 'age')",0.14714521006661876
 3,"('blast furnace slag', 'water ', 'superplasticizer')",0.14650803926719974
 5,"('blast furnace slag', 'fly ash', 'coarse aggregate', 'fine aggregate', 'age')",0.14519647373272984
-3,"('blast furnace slag', 'superplasticizer', 'coarse aggregate')",0.14438167196291923
-2,"('blast furnace slag', 'superplasticizer')",0.14344830718825008
-3,"('water ', 'superplasticizer', 'coarse aggregate')",0.1430862658815818
-3,"('blast furnace slag', 'water ', 'coarse aggregate')",0.14000717724989994
-3,"('blast furnace slag', 'coarse aggregate', 'age')",0.13679980195182317
-2,"('superplasticizer', 'coarse aggregate')",0.13601128169609072
-4,"('blast furnace slag', 'fly ash', 'coarse aggregate', 'age')",0.13260085691569728
+3,"('blast furnace slag', 'superplasticizer', 'coarse aggregate')",0.14438167196291918
+2,"('blast furnace slag', 'superplasticizer')",0.14344830718825005
+3,"('water ', 'superplasticizer', 'coarse aggregate')",0.14308626588158188
+3,"('blast furnace slag', 'water ', 'coarse aggregate')",0.14000717724990003
+3,"('blast furnace slag', 'coarse aggregate', 'age')",0.13679980195182323
+2,"('superplasticizer', 'coarse aggregate')",0.13601128169609084
+4,"('blast furnace slag', 'fly ash', 'coarse aggregate', 'age')",0.1326008569156974
 2,"('coarse aggregate', 'age')",0.13229560525676762
 1,"('superplasticizer',)",0.131692902682985
-2,"('water ', 'coarse aggregate')",0.13074736879296664
-2,"('water ', 'superplasticizer')",0.13072174140935183
-3,"('fly ash', 'coarse aggregate', 'age')",0.13022220149038982
-3,"('blast furnace slag', 'fine aggregate', 'age')",0.12426058246648711
-2,"('blast furnace slag', 'age')",0.12026910285630857
-3,"('blast furnace slag', 'fly ash', 'water ')",0.11994044666861654
-4,"('blast furnace slag', 'fly ash', 'fine aggregate', 'age')",0.11948762749167101
-2,"('fine aggregate', 'age')",0.11610856123503048
-3,"('blast furnace slag', 'fly ash', 'age')",0.11532262629450891
-3,"('fly ash', 'fine aggregate', 'age')",0.11225084775202912
-2,"('fly ash', 'water ')",0.10998523112115474
+2,"('water ', 'coarse aggregate')",0.13074736879296656
+2,"('water ', 'superplasticizer')",0.13072174140935192
+3,"('fly ash', 'coarse aggregate', 'age')",0.1302222014903899
+3,"('blast furnace slag', 'fine aggregate', 'age')",0.12426058246648715
+2,"('blast furnace slag', 'age')",0.1202691028563085
+3,"('blast furnace slag', 'fly ash', 'water ')",0.11994044666861667
+4,"('blast furnace slag', 'fly ash', 'fine aggregate', 'age')",0.11948762749167105
+2,"('fine aggregate', 'age')",0.11610856123503051
+3,"('blast furnace slag', 'fly ash', 'age')",0.11532262629450907
+3,"('fly ash', 'fine aggregate', 'age')",0.11225084775202909
+2,"('fly ash', 'water ')",0.10998523112115488
 2,"('blast furnace slag', 'water ')",0.10584417217209982
-1,"('age',)",0.10580681735722122
-2,"('fly ash', 'age')",0.10289062601503711
-1,"('water ',)",0.08204885513067724
-3,"('fly ash', 'coarse aggregate', 'fine aggregate')",0.0637201118877391
-4,"('blast furnace slag', 'fly ash', 'coarse aggregate', 'fine aggregate')",0.06181843914940603
+1,"('age',)",0.1058068173572213
+2,"('fly ash', 'age')",0.10289062601503718
+1,"('water ',)",0.0820488551306772
+3,"('fly ash', 'coarse aggregate', 'fine aggregate')",0.06372011188773923
+4,"('blast furnace slag', 'fly ash', 'coarse aggregate', 'fine aggregate')",0.06181843914940608
 2,"('coarse aggregate', 'fine aggregate')",0.06175943506090966
-3,"('blast furnace slag', 'coarse aggregate', 'fine aggregate')",0.059469392456445516
-2,"('fly ash', 'coarse aggregate')",0.03168427436020229
+3,"('blast furnace slag', 'coarse aggregate', 'fine aggregate')",0.05946939245644549
+2,"('fly ash', 'coarse aggregate')",0.03168427436020234
 3,"('blast furnace slag', 'fly ash', 'coarse aggregate')",0.03071931158286869
-2,"('blast furnace slag', 'coarse aggregate')",0.0300126302468253
-2,"('blast furnace slag', 'fine aggregate')",0.027182546540406593
-1,"('coarse aggregate',)",0.026498993515829895
-3,"('blast furnace slag', 'fly ash', 'fine aggregate')",0.025365090939447433
-2,"('fly ash', 'fine aggregate')",0.02436612752672578
-1,"('fine aggregate',)",0.02332747531613739
-1,"('blast furnace slag',)",0.01186251377547214
-2,"('blast furnace slag', 'fly ash')",0.009824930959594625
-1,"('fly ash',)",0.003347801014338292
+2,"('blast furnace slag', 'coarse aggregate')",0.030012630246825323
+2,"('blast furnace slag', 'fine aggregate')",0.027182546540406617
+1,"('coarse aggregate',)",0.02649899351582996
+3,"('blast furnace slag', 'fly ash', 'fine aggregate')",0.0253650909394475
+2,"('fly ash', 'fine aggregate')",0.024366127526725845
+1,"('fine aggregate',)",0.023327475316137415
+1,"('blast furnace slag',)",0.011862513775472183
+2,"('blast furnace slag', 'fly ash')",0.00982493095959458
+1,"('fly ash',)",0.00334780101433827

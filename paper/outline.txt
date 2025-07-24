@@ -1,0 +1,28 @@
+Comparison study of Machine Learning-based Concrete Strength Estimation
+
+Author: Yumi, Taegu
+
+Introduction
+ - (앞선논문 내용 따라하기)
+ - 하지만 기존의 ML를 활용한 논문의 한계, 본 연구에서 더 발전시키고자 하는 방향 
+   (i.e., 더 많은 ML 모델간 비교, 더 낫은 Feature Engineering, hyperparameter tunning)
+
+Method
+ - Dataset에 대한 설명
+ - EDA - Explained Data Analytics
+ - ML methods
+    1) Random forest
+    2) Deep Forest 
+    2) XGBoost
+    3) CatBoost
+ - Performance evaluation
+
+Result
+ - Feature Selection -> 모든 경우의 feature 조합으로 최고 고름
+ - Hyperparameter tunning -> 최고의 모델 예측 결과 비교
+ - Feature importance -> 최고의 모델로부터 계산한 Feature 중요도
+ - Uncertainty assessment  
+
+Conclusion
+
+  

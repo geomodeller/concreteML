@@ -11,16 +11,16 @@ Method
  - Dataset에 대한 설명
  - EDA - Explained Data Analytics
  - ML methods
-    1) Random forest
-    2) Deep Forest 
-    2) XGBoost
-    3) CatBoost
- - Performance evaluation
+    1) Random forest/
+    2) Deep Forest/ 
+    2) XGBoost/
+    3) CatBoost/
+ - Performance evaluation/
 
 Result
- - Feature Selection -> 모든 경우의 feature 조합으로 최고 고름
- - Hyperparameter tunning -> 최고의 모델 예측 결과 비교
- - Feature importance -> 최고의 모델로부터 계산한 Feature 중요도
+ - Feature Selection -> 모든 경우의 feature 조합으로 최고 고름/
+ - Hyperparameter tunning -> 최고의 모델 예측 결과 비교/
+ - Feature importance -> 최고의 모델로부터 계산한 Feature 중요도/
  - Uncertainty assessment  
 
 Conclusion
